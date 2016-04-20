@@ -1,0 +1,13 @@
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\bin\Debug\Host File Changer.exe.config
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\bin\Debug\Host File Changer.exe
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\bin\Debug\Host File Changer.pdb
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer.csprojResolveAssemblyReference.cache
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\MainWindow.baml
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\MainWindow.g.cs
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\App.g.cs
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer_MarkupCompile.cache
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer.g.resources
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host_File_Changer.Properties.Resources.resources
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer.csproj.GenerateResource.Cache
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer.exe
+c:\users\njsee\documents\visual studio 2013\Projects\Host File Changer\Host File Changer\obj\Debug\Host File Changer.pdb

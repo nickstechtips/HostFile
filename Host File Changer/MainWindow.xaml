@@ -1,0 +1,19 @@
+﻿<Window x:Class="Host_File_Changer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="670" Width="1102">
+    <Grid>
+        <ListBox x:Name="currentHostFileListbox" HorizontalAlignment="Left" Height="499" Margin="21,79,0,0" VerticalAlignment="Top" Width="862" SelectionChanged="currentHostFileListbox_SelectionChanged"/>
+        <Label x:Name="currentHostFileLabel" Content="Current Host file" HorizontalAlignment="Left" Margin="21,54,0,0" VerticalAlignment="Top" Width="259"/>
+        <Button x:Name="commentOutBtn" Content="Comment out" HorizontalAlignment="Left" Margin="911,79,0,0" VerticalAlignment="Top" Width="150" Height="45" Click="commentOutBtn_Click"/>
+        <Button x:Name="unCommentOutBtn" Content="Un-Comment out" HorizontalAlignment="Left" Margin="911,145,0,0" VerticalAlignment="Top" Width="150" Height="45" Click="unCommentOutBtn_Click"/>
+        <Button x:Name="addNewBtn" Content="Add New" HorizontalAlignment="Left" Margin="911,336,0,0" VerticalAlignment="Top" Width="150" Height="45" Click="addNewBtn_Click"/>
+        <TextBox x:Name="domainNameBox" HorizontalAlignment="Left" Height="23" Margin="911,295,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="domainNameLbl" Content="Url" HorizontalAlignment="Left" Margin="911,269,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label Content="Nick's Host File Editor" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top" Width="236" FontSize="22" Height="49"/>
+        <TextBox x:Name="ipAddressBox" HorizontalAlignment="Left" Height="23" Margin="911,246,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150"/>
+        <Label Content="IP Address" HorizontalAlignment="Left" Margin="911,195,0,0" VerticalAlignment="Top"/>
+        <CheckBox Content="Local IP" HorizontalAlignment="Left" Margin="911,226,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.141,0.4" Checked="CheckBox_Checked" Width="94" IsChecked="True" Unchecked="CheckBox_Unchecked"/>
+
+    </Grid>
+</Window>
